@@ -1,0 +1,40 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(1, 5, 27);
+}
+
+/* Estilos para o card */
+.card {
+    margin: 10px 0;
+}
+
+/* Estilos para a imagem */
+.card img {
+    max-width: 20%;
+    height: auto;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    
+}
+
+/* Estilos para as tabelas */
+.table {
+    margin-top: 20px;
+    background-color: #c9c9b1; /* branco */
+}
+
+.table th {
+    background-color: #FFCC00; /* Amarelo */
+    color: #0f0f0f; /* Preto */
+}
+
+.table td {
+    background-color: #ddc9c9; /* branco  */
+    color: black;
+}
+
+/* Estilos para os títulos */
+h1, h2, h3, p {
+    color: #FFCC00; /* Amarelo */
+}
